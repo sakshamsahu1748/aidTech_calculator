@@ -1,0 +1,9 @@
+#b{width: 250px;height: 25px;font-size: 20px;}
+#a{width: 250px;height: 25px;font-size: 20px;}
+.AB{color: darkgray;font-size: 70PX;text-decoration: underline;}
+.calculator H3{color: cornsilk;font-family:Verdana, Geneva, Tahoma, sans-serif;font-size: 25PX;}
+.calculator input{border-radius:5px;box-shadow: 2px 2px 5px black;}
+.box{text-align: center;background-color:rgba(64, 67, 67, 0.792) ;height: 350px;width: 350px;border-radius: 15px;border-style:double ;margin-left: 560PX;margin-top: 170PX;border-width: 5px;box-shadow: 0px 1px 10px  black;}
+BODY{background-image: url("calc1.jpeg");background-repeat: no-repeat;background-size: cover}
+
+#message{color: azure;background-color: black;;height: auto;width: auto;font-size: 20px}
